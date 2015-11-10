@@ -23,3 +23,5 @@ Configuration sample:
 	}
 ]
 ```
+
+Note that two successive single-quotes (`''`) will be automatically converted to double-quotes.
